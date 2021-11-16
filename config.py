@@ -1,7 +1,7 @@
 elasticsearch_host = "elasticsearch"
 elasticsearch_port = 9200
-elasticsearch_user = ""
-elasticsearch_password = ""
+elasticsearch_user = "admin"
+elasticsearch_password = "admin"
 consumer_key = "8C3BggZJ7rxnBbY8qKfgz2iMD"
 consumer_secret = "Oj354WMqdmfsBnm4dVKowqk44VpKnKbWKp4JfjKRAMHy0cyIzI"
 access_token = "350106545-ydBjsFq6aGh1wERReaD63A3G2HdxLlTHt6piYGVY"
